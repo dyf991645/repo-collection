@@ -7,3 +7,7 @@
 ## vpn
 
 IPsec VPN Server Auto Setup Scripts: https://github.com/hwdsl2/setup-ipsec-vpn
+
+## tech
+
+Nomad： https://github.com/hashicorp/nomad
